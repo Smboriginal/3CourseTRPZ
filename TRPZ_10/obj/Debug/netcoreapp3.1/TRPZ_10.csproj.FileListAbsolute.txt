@@ -1,0 +1,13 @@
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\bin\Debug\netcoreapp3.1\TRPZ_10.exe
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\bin\Debug\netcoreapp3.1\TRPZ_10.deps.json
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\bin\Debug\netcoreapp3.1\TRPZ_10.runtimeconfig.json
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\bin\Debug\netcoreapp3.1\TRPZ_10.runtimeconfig.dev.json
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\bin\Debug\netcoreapp3.1\TRPZ_10.dll
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\bin\Debug\netcoreapp3.1\TRPZ_10.pdb
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\obj\Debug\netcoreapp3.1\TRPZ_10.csprojAssemblyReference.cache
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\obj\Debug\netcoreapp3.1\TRPZ_10.csproj.CoreCompileInputs.cache
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\obj\Debug\netcoreapp3.1\TRPZ_10.AssemblyInfoInputs.cache
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\obj\Debug\netcoreapp3.1\TRPZ_10.AssemblyInfo.cs
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\obj\Debug\netcoreapp3.1\TRPZ_10.dll
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\obj\Debug\netcoreapp3.1\TRPZ_10.pdb
+C:\Users\lkwat\Desktop\10 labtyh\TRPZ_10\obj\Debug\netcoreapp3.1\TRPZ_10.genruntimeconfig.cache
