@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lkwat\\OneDrive\\Рабочий стол\\11tyh\\11TRPZ\\TRPZ_11\\TRPZ_11.csproj": {}
+    "C:\\Users\\lkwat\\Desktop\\11tyh\\11TRPZ\\TRPZ_11\\TRPZ_11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lkwat\\OneDrive\\Рабочий стол\\11tyh\\11TRPZ\\TRPZ_11\\TRPZ_11.csproj": {
+    "C:\\Users\\lkwat\\Desktop\\11tyh\\11TRPZ\\TRPZ_11\\TRPZ_11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lkwat\\OneDrive\\Рабочий стол\\11tyh\\11TRPZ\\TRPZ_11\\TRPZ_11.csproj",
+        "projectUniqueName": "C:\\Users\\lkwat\\Desktop\\11tyh\\11TRPZ\\TRPZ_11\\TRPZ_11.csproj",
         "projectName": "TRPZ_11",
-        "projectPath": "C:\\Users\\lkwat\\OneDrive\\Рабочий стол\\11tyh\\11TRPZ\\TRPZ_11\\TRPZ_11.csproj",
+        "projectPath": "C:\\Users\\lkwat\\Desktop\\11tyh\\11TRPZ\\TRPZ_11\\TRPZ_11.csproj",
         "packagesPath": "C:\\Users\\lkwat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lkwat\\OneDrive\\Рабочий стол\\11tyh\\11TRPZ\\TRPZ_11\\obj\\",
+        "outputPath": "C:\\Users\\lkwat\\Desktop\\11tyh\\11TRPZ\\TRPZ_11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lkwat\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,14 +1,14 @@
 ﻿namespace Decorator
 {
     /// <summary>
-    /// Острая добавка.
+    /// Кофейная кружка всегда хорошо.
     /// </summary>
     public class AddCoffeeCup : Decor
     {
         /// <summary>
-        /// Создать новый экземпляр шаурмы с острой добавкой.
+        /// Создать новый экземпляр сервиза с коф кружкой.
         /// </summary>
-        /// <param name="service">Шаурма, в которую добавляется добавка.</param>
+        /// <param name="service">Не грози южному централу попивая кофе на диване.</param>
         public AddCoffeeCup(Service service) : base(service)
         {
             Price += 5;

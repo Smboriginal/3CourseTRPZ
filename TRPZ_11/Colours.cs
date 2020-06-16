@@ -11,18 +11,18 @@ namespace Decorator
         /// В стандартном виде розовом или пастельном.
         /// </summary>
         [Description("Сервиз в пастельном цвете")]
-        Standart = 1,
+        Pink = 1,
 
         /// <summary>
         /// Сервиз с позолотой.
         /// </summary>
         [Description("Сервиз в золотом цвете")]
-        Cheese = 2,
+        Golgen = 2,
 
         /// <summary>
         /// Синий неплохой выбор.
         /// </summary>
         [Description("Сервиз в синем цвете")]
-        Arabic = 3
+        Blue = 3
     }
 }

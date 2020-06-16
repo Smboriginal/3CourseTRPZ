@@ -1,14 +1,14 @@
 ﻿namespace Decorator
 {
     /// <summary>
-    /// Орнамент придаетбольше красоты чем золото, как по мне.
+    /// Докомплектация сервиза мыской.
     /// </summary>
     public class AddDeepDish : Decor
     {
         /// <summary>
-        /// Создать новый экземпляр сервиза с орнаментом.
+        /// Создать новый экземпляр сервиза с миской.
         /// </summary>
-        /// <param name="service">Сервиз с изысканными изо.</param>
+        /// <param name="service">Сервиз с глубокой тарелкой.</param>
         public AddDeepDish(Service service) : base(service)
         {
             Price += 15;

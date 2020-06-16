@@ -1,14 +1,14 @@
 ﻿namespace Decorator
 {
     /// <summary>
-    /// Бархат внутри - пластик снаружи.
+    /// Блюдце лишним не бывает.
     /// </summary>
     public class AddSaucer : Decor
     {
         /// <summary>
-        /// Создать экземпляр сервиза с бархатной упаковкой внутри.
+        /// Создать экземпляр сервиза с блюдцем.
         /// </summary>
-        /// <param name="service">Сервиз, в котором будет изменён вн. вид упаковки.</param>
+        /// <param name="service">Докомплектация сервиза.</param>
         public AddSaucer(Service service) : base(service)
         {
             Price += 5;

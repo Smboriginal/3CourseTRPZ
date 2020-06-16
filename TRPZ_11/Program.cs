@@ -99,7 +99,7 @@ namespace Decorator
         /// Запросить у пользователя тип окраски.
         /// </summary>
         /// <param name="clientName">имя юзера.</param>
-        /// <returns>Шаурма.</returns>
+        /// <returns>сервиз.</returns>
         private static Service GetServiceType(string clientName)
         {
             // Выводим пользователю все возможные окраски
@@ -116,14 +116,14 @@ namespace Decorator
             {
                 switch ((Colours)shaurmaType)
                 {
-                    case Colours.Standart:
-                        // Шаурма в обычном цвете.
+                    case Colours.Pink:
+                        // сервиз в обычном цвете.
                         return new Pink(clientName);
-                    case Colours.Cheese:
-                        // Шаурма в золотистом цвете.
+                    case Colours.Golgen:
+                        // сервиз в золотистом цвете.
                         return new Golden(clientName);
-                    case Colours.Arabic:
-                        // Шаурма в голубом цвете.
+                    case Colours.Blue:
+                        // сервиз в голубом цвете.
                         return new Blue(clientName);
                     default:
                         // Не удалось привести ответ пользователя к требуемому виду.
