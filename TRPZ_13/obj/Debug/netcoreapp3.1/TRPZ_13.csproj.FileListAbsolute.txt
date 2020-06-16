@@ -1,0 +1,26 @@
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.exe
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.deps.json
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.runtimeconfig.json
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.runtimeconfig.dev.json
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.dll
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.pdb
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.csprojAssemblyReference.cache
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.csproj.CoreCompileInputs.cache
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.AssemblyInfoInputs.cache
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.AssemblyInfo.cs
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.dll
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.pdb
+C:\Users\lkwat\Desktop\13tyh\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.genruntimeconfig.cache
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.exe
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.deps.json
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.runtimeconfig.json
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.runtimeconfig.dev.json
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.dll
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\bin\Debug\netcoreapp3.1\TRPZ_13.pdb
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.csprojAssemblyReference.cache
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.csproj.CoreCompileInputs.cache
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.AssemblyInfoInputs.cache
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.AssemblyInfo.cs
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.dll
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.pdb
+C:\Users\lkwat\OneDrive\Рабочий стол\TRPZ13\TRPZ_13\obj\Debug\netcoreapp3.1\TRPZ_13.genruntimeconfig.cache
