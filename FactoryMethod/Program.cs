@@ -22,6 +22,17 @@ namespace FactoryMethod
             AnnonceDesk pass = new Adapter();
             pass.Announcement();
 
+
+
+            /// behaviour pattern Memento 12
+            DataRestorator o = new DataRestorator();
+            // function that cares Memento obj
+            Caretaker c = new Caretaker();
+            o.PrivateData = "Зулуцкий Михаил Павлович, прописка: г.Киев, Вильгельма-Пика 13/9, рост: 5.6', вес: 150 lb раннее не судим.";
+            c.Memento = o.DropMemento();
+            o.SetMemento(c.Memento);
+
+
             _ = Console.Read();
         }
     }
