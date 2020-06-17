@@ -1,7 +1,7 @@
 ﻿namespace DAL.Entities
 {
-    class RoutesList
-    {
+   public class RoutesList
+   {
         public int MainRouteId { get; set; } //Route id, it storages in DB
         public string Name { get; set; } //it`s name
         public FASTRole Role { get; set; } // using role

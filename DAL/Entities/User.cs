@@ -1,6 +1,6 @@
 ﻿namespace DAL.Entities
 {
-    class User
+    public class User
     {
         public int UserId { get; set; } //Id in DB
         public string Name { get; set; } //realname

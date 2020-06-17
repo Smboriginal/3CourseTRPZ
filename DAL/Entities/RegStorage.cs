@@ -2,7 +2,7 @@
 
 namespace DAL.Entities
 {
-    class RegStorage
+    public class RegStorage
     {
         public int StorageId { get; set; } // каждый склад имеет айди
         public string Name { get; set; } // name of storage
