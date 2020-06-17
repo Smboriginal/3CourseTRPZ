@@ -7,8 +7,8 @@ namespace DAL.UnitOfWork
 {
     public interface IUnitOfWork : IDisposable
     {
-        IRoutesSchemasSystemRepository RoutesListSystem { get; }
-        IRoutesList SigleRoute { get; }
+        IRoutesInfoSystemRepository RouteInfoSystems { get; }
+        IRoutesRepository RouteLists { get; }
         void Save();
     }
 }

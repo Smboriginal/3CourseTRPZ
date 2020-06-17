@@ -5,8 +5,8 @@ using System.Text;
 
 namespace DAL.Repositories.Interfaces
 {
-    public interface IRoutesSchemasSystemRepository
-        :IRepository<RoutsListSystem>
+    public interface IRoutesRepository
+        : IRepository<UnitRoute>
     {
     }
 }

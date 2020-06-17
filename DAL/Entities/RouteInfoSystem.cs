@@ -2,7 +2,7 @@
 
 namespace DAL.Entities
 {
-    public class RoutsListSystem
+    public class RouteInfoSystem
     {
 
     }

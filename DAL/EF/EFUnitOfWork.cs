@@ -12,39 +12,39 @@ namespace DAL.EF
     public class EFUnitOfWork
         : IUnitOfWork
     {
-        //private readonly RoutesSchemasSystemContext db;
-        private RoutesSchemasSystemContext db;
-        private Repositories.Impl.RoutesSchemasSystemRepository eduInfoSystemRepository;
-        private RoutesListRepository eduMaterialRepository;
+        //private readonly RoutesInfoSystemContext db;
+        private RoutesInfoSystemContext db;
+        private RouteInfoSystemRepository routeInfoSystemRepository;
+        private RoutesListRepository routesListRepository;
 
         public EFUnitOfWork(DbContextOptions options)
         {
-            db = new RoutesSchemasSystemContext(options);
+            db = new RoutesInfoSystemContext(options);
         }
 
-        public IRepository<RoutsListSystem> EduInfoSystems
+        public IRepository<RouteInfoSystem> RouteInfoSystems
         {
             get
             {
-                if (eduInfoSystemRepository == null)
-                    eduInfoSystemRepository = new Repositories.Impl.RoutesSchemasSystemRepository(db);
-                return eduInfoSystemRepository;
+                if (routeInfoSystemRepository == null)
+                    routeInfoSystemRepository = new RouteInfoSystemRepository(db);
+                return routeInfoSystemRepository;
             }
         }
 
-        public IRepository<SingleRoute> EduMaterials
+        public IRepository<UnitRoute> RouteLists
         {
             get
             {
-                if (eduMaterialRepository == null)
-                    eduMaterialRepository = new RoutesListRepository(db);
-                return eduMaterialRepository;
+                if (routesListRepository == null)
+                    routesListRepository = new RoutesListRepository(db);
+                return routesListRepository;
             }
         }
 
-        Repositories.Interfaces.IRoutesSchemasSystemRepository IUnitOfWork.RoutesListSystem => throw new NotImplementedException();
+        IRoutesInfoSystemRepository IUnitOfWork.RouteInfoSystems => throw new NotImplementedException();
 
-        IRoutesList IUnitOfWork.SigleRoute => throw new NotImplementedException();
+        IRoutesRepository IUnitOfWork.RouteLists => throw new NotImplementedException();
 
         public void Save()
         {

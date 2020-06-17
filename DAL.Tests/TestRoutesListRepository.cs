@@ -1,12 +1,11 @@
 ﻿using DAL.Repositories.Impl;
 using DAL.Entities;
-using DAL.EF;
 using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Tests
 {
     public class TestRoutesListRepository
-        : BaseRepository<SingleRoute>
+        : BaseRepository<UnitRoute>
     {
         public TestRoutesListRepository(DbContext context)
             : base(context)

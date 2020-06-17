@@ -8,9 +8,9 @@ using DAL.EF;
 namespace DAL.Repositories.Impl
 {
     public class RoutesListRepository
-        : BaseRepository<SingleRoute>, IRoutesList
+        : BaseRepository<UnitRoute>, IRoutesRepository
     {
-        internal RoutesListRepository(RoutesSchemasSystemContext context)
+        internal RoutesListRepository(RoutesInfoSystemContext context)
             : base(context)
         {
 
