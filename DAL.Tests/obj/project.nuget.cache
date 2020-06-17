@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uAgaEz2Fsiwry8lLO5MgXIcqPNWo4SgRphu5PePOrujMQVIzAgT5gmYYwrn5qICSTwUjUTFWaNu+QFfCdqaBJw==",
+  "dgSpecHash": "mhjnhWDb3JyzGv/qyo/5UBOB/d0jh7lOvGwlAGBnUTPHK6oADZdGP31SAtZJzeQfQGms11dj4hg20GtSaI+t/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\DAL.Tests.csproj",
+  "projectFilePath": "C:\\Users\\lkwat\\Desktop\\3\\DAL.Tests\\DAL.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lkwat\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\lkwat\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

@@ -1,7 +1,6 @@
 using System;
 using Xunit;
 
-//Added DAL.Tests project
 namespace DAL.Tests
 {
     public class UnitTest1

@@ -3510,11 +3510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\DAL.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\lkwat\\Desktop\\3\\DAL.Tests\\DAL.Tests.csproj",
       "projectName": "DAL.Tests",
-      "projectPath": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\DAL.Tests.csproj",
+      "projectPath": "C:\\Users\\lkwat\\Desktop\\3\\DAL.Tests\\DAL.Tests.csproj",
       "packagesPath": "C:\\Users\\lkwat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\obj\\",
+      "outputPath": "C:\\Users\\lkwat\\Desktop\\3\\DAL.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lkwat\\AppData\\Roaming\\NuGet\\NuGet.Config",
