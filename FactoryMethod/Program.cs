@@ -17,6 +17,10 @@ namespace FactoryMethod
                 IRole position = creator.FactoryMethod();
                 position.Authentification();
             }
+            
+            /// Creating Adapter pattern
+            AnnonceDesk pass = new Adapter();
+            pass.Announcement();
 
             _ = Console.Read();
         }
