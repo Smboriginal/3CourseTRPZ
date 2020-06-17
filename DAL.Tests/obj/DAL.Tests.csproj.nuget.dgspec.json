@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL\\DAL.csproj": {}
+    "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\DAL.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL\\DAL.csproj": {
+    "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\DAL.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL\\DAL.csproj",
-        "projectName": "DAL",
-        "projectPath": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\DAL.Tests.csproj",
+        "projectName": "DAL.Tests",
+        "projectPath": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\DAL.Tests.csproj",
         "packagesPath": "C:\\Users\\lkwat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\lkwat\\Desktop\\MainProject\\DAL.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lkwat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
