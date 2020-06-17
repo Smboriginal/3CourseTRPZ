@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v9Mf7LMMFRVzapbP8jT0Oze66UfqNND47cIeEb9aR0dIjUT2sdqKkGmd0D/5yZbrfa2T1bjPCwHDMPwCgtNmOA==",
+  "dgSpecHash": "5vOISrSmYi9pzm/2DUnix+8wS+Ty3YU4bKG/lPVXu/k8yIvDxeEH4s/Q3TLj62FHlYQuyENpFJl08WWp3Uny4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lkwat\\Desktop\\6\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\lkwat\\Desktop\\7 lab compl\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lkwat\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\lkwat\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
